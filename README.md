@@ -10,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: https://www.linkedin.com/in/jephtey-adolphe-160166147/
 - ⚡ Fun fact: ...
 -->
-[![Jephtey's GitHub stats](https://github-readme-stats.vercel.app/api?username=JephteyAdolphe)](https://github.com/anuraghazra/github-readme-stats)
+![Jephtey's GitHub stats](https://github-readme-stats.vercel.app/api?username=JephteyAdolphe&show_icons=true&theme=tokyonight)
